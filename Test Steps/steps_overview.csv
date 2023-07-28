@@ -1,0 +1,23 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_category_chekhly-na-iphone
+step 2: At Page_category_chekhly-na-iphone click on button_object
+step 3: At Page_category_chekhly-na-iphone click on button_object
+step 4: At Page_category_chekhly-na-iphone click on label_object
+step 5: At Page_category_chekhly-na-iphone click on button_object
+step 6: At Page_category_chekhly-na-iphone click on hyperlink_cart --> navigate to Page_cart
+step 7: Add visual checkpoint at Page_cart",High
+5,"step 1: Navigate to Page_checkout_info
+step 2: Add visual checkpoint at Page_checkout_info",High
+6,"step 1: Navigate to Page_checkout_payment
+step 2: Add visual checkpoint at Page_checkout_payment",High
+2,"step 1: Navigate to Page_product_chekhol-tetrad
+step 2: At Page_product_chekhol-tetrad click on button_object
+step 3: At Page_product_chekhol-tetrad click on label_object
+step 4: At Page_product_chekhol-tetrad click on button_object
+step 5: Add visual checkpoint at Page_product_chekhol-tetrad",Medium
+4,"step 1: Navigate to Page_checkout_shipping-address
+step 2: Add visual checkpoint at Page_checkout_shipping-address",Low
+3,"step 1: Navigate to Page_home
+step 2: Add visual checkpoint at Page_home",Low
+7,"step 1: Navigate to Page_checkout
+step 2: Add visual checkpoint at Page_checkout",Trivial
