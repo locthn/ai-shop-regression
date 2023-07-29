@@ -6,6 +6,7 @@
         "step 4: At Page_category_chekhly-na-iphone click on label_object",
         "step 5: At Page_category_chekhly-na-iphone click on button_object",
         "step 6: At Page_category_chekhly-na-iphone click on hyperlink_cart --> navigate to Page_cart",
-        "step 7: Add visual checkpoint at Page_cart"
+        "step 7: At Page_cart click on button_object --> navigate to Page_checkout_info",
+        "step 8: Add visual checkpoint at Page_checkout_info"
     ]
 }
